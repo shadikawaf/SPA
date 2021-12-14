@@ -44,5 +44,5 @@ The TIL for this assignment is that I am now knowledgeable with SPA construction
 </ol>
 
 [Video presentation](https://www.youtube.com/watch?v=Pcrl-KiK8BA)
-[Student ID](https://drive.google.com/file/d/1FgBmjntMkTn8TGB36nGMXTuF_qPLklKD/view?usp=sharing)
+
 
